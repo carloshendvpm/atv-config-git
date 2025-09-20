@@ -8,3 +8,4 @@ Feature de login aq
   - Outro passo no cenário
 - Cenário 3
 - Cenário 4
+- Novo cenário aqui
