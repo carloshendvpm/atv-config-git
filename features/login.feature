@@ -9,3 +9,5 @@ Feature de login aq
 - Cenário 3
 - Cenário 4
 - Novo cenario urgente
+- Novo cenário aqui
+- Cenario Novo!
